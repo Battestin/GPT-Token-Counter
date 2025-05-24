@@ -1,0 +1,3 @@
+python-dotenv==1.0.1
+openai==1.14.3
+tiktoken==0.5.2
